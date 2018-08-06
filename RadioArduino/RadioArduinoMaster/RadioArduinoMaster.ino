@@ -61,7 +61,7 @@ TEA5767Radio radio = TEA5767Radio();
 int val = 0;
 //Analog pin number
 int analogPin = 0;
-//interger frequency value
+//integer frequency value
 int frequencyInt = 0;
 //float frequency value
 float frequency = 0.0;
